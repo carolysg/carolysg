@@ -6,7 +6,7 @@
 - ❤  Amo estudar e aprender coisas novas! No momento, estou em transição de carreira para a área de análise de dados
 - 🏊‍♀️ No meu tempo livre, gosto de nadar e assistir animes
 
-##
+Contato:
 
 <div> 
   <a href = "mailto:carolinagoshima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
