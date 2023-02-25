@@ -18,7 +18,6 @@ Contato:
 
 <p align="center">
   <a href="https://github.com/carolysg/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=carolysg&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" alt="carolysg's github stats" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   </a>
 </p>
 
