@@ -2,7 +2,7 @@
 
 - 👩‍🎓 Sou engenheira civil pela UFSCar e mestranda em engenharia de transportes pela EESC-USP
 - 🌱 Trabalho atualmente no setor de Inovação e Sustentabilidade de uma construtora
-- 👩‍💻 Fui uma das 30 selecionadas para a formação de Python & Dados pela Ada Tech em parceria com a Leroy Merlin (em andamento!)
+- 👩‍💻 Fui uma das 34 selecionadas para a formação de Python & Dados pela Ada Tech em parceria com a Leroy Merlin (em andamento!)
 - ❤  Amo estudar e aprender coisas novas! No momento, estou em transição de carreira para a área de análise de dados
 - 🏊‍♀️ No meu tempo livre, gosto de nadar e assistir animes
 
