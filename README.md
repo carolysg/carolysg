@@ -1,9 +1,8 @@
 ### Oie! Eu sou a Carol Yumi, prazer!
 
 - 👩‍🎓 Sou engenheira civil pela UFSCar e mestranda em engenharia de transportes pela EESC-USP
-- 🌱 Trabalho atualmente no setor de Inovação e Sustentabilidade de uma construtora
 - 👩‍💻 Fui uma das 34 selecionadas para a formação de Python & Dados pela Ada Tech em parceria com a Leroy Merlin (em andamento!)
-- ❤  Amo estudar e aprender coisas novas! No momento, estou em transição de carreira para a área de análise de dados
+- ❤  Amo estudar e aprender coisas novas! No momento, estou em transição de carreira para a área de análise de dados, estudando Python e SQL
 - 🏊‍♀️ No meu tempo livre, gosto de nadar e assistir animes
 
 Contato:
