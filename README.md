@@ -8,7 +8,7 @@
 Contato:
 
 <div> 
-  <a href="https://carolysg.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%230077B5?style=for-the-badge&Color=white" target="_blank"></a>
+  <a href="https://carolysg.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23AD0C6D?style=for-the-badge&Color=white" target="_blank"></a>
   <a href = "mailto:carolinagoshima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolyumi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img align="right" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202302/338224_eKOs7IZN.png">
