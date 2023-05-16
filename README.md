@@ -5,6 +5,12 @@
 - ❤  Amo estudar e aprender coisas novas! No momento, estou em transição de carreira para a área de análise de dados, estudando Python, SQL e Estatística.
 - 🏊‍♀️ No meu tempo livre, gosto de nadar e assistir animes
 
+Conhecimentos:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+</div>
+
 Contato:
 
 <div> 
