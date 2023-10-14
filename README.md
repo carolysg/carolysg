@@ -23,10 +23,9 @@ Contato:
 
 <div> 
   <a href="https://carolysg.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23AD0C6D?style=for-the-badge&Color=white" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/1e3Yrpk1pugne5DG8m9oM3ZLQeEH-U-rH/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-%23103B13?style=for-the-badge&Color=white" target="_blank"></a>
+  <a href="https://drive.google.com/file/d/1fOp1JaeGxiexUUywRJwC0j9CFBlrWN-l/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-%23103B13?style=for-the-badge&Color=white" target="_blank"></a>
   <a href = "mailto:carolinagoshima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E65602?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolyumi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img align="right" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202302/338224_eKOs7IZN.png">
 </div>
 
 ##
