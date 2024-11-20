@@ -1,7 +1,7 @@
 ### Oie! Eu sou a Carol Yumi, prazer!
 
-- 👩‍🎓 Sou engenheira civil pela UFSCar, mestranda em engenharia de transportes pela EESC-USP e graduanda em ciência de dados pela UNIVESP.
-- 👩‍💻 Atualmente, trabalho como engenheira de dados pleno na MadeinWeb.
+- 👩‍🎓 Sou engenheira civil pela UFSCar, mesta em engenharia de transportes pela EESC-USP e graduanda em ciência de dados pela UNIVESP.
+- 👩‍💻 Atualmente, trabalho como engenheira de dados.
 - ❤  Amo estudar e aprender coisas novas! 
 - 🏊‍♀️ No meu tempo livre, gosto de nadar e assistir animes.
 
